@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSStartMenu.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSHalloween.unity
+    guid: cc6b62b038c636847af58de0a3f5c9b4
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL1.unity
+    guid: 577fc01af2170504a91c3b7b3836fe4c
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL2.unity
+    guid: 769ca2c5fe9bf634b9bdd66a41557133
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL3.unity
+    guid: b377d3e206c2a3740b5c30c9c99cde05
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL4.unity
+    guid: ecd4d3f65643bfd408cd89e613cdda94
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL5.unity
+    guid: f4294a360ead5864b9c702936e698b5e
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL6.unity
+    guid: fe28c973e657e364abf261f0d7b9e6d2
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL7.unity
+    guid: 97eecdd9c51b0a64bba36ce63c9cacfc
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL8.unity
+    guid: 7a70e42a079fa9f44b6d10f0d05eeb0a
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL9.unity
+    guid: 6e3425c5d9186894f965d2772ee5bd15
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL10.unity
+    guid: ef6c9205166af624b91398d6820e2b32
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL11.unity
+    guid: bfd75adf85cb0794c85a9af66ed26690
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSLEVEL12.unity
+    guid: df54e9b2fa8b92b46bc93f51fb27e963
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSStartMenu.unity
+    guid: 09aac9254c0409a4b97aafb4c20c6165
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSStressTest.unity
+    guid: f0759688d9230304496378482d03a53d
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSVictory.unity
+    guid: 70137b77aca15f2429b924f513c756e0
+  - enabled: 1
+    path: Assets/MvRAssets/CS_Assets/CS_Scenes/CSXmas.unity
+    guid: ddde14d0d274877468c452c75e54cf00
+  m_configObjects: {}
